@@ -1,5 +1,5 @@
 # HanucaTree
-HANUCA IS THE BEST HOLIDAY !!!! 
+HANUCA IS THE BEST HOLYDAY !!!! 
 <img width="847" alt="image" src="https://user-images.githubusercontent.com/90776557/206916768-66e2e702-6a5f-4f83-a078-22e41eea66a3.png">
 <img width="884" alt="image" src="https://user-images.githubusercontent.com/90776557/206916774-3038dd75-f474-4591-8e62-05aec2634f5a.png">
 
