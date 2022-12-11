@@ -62,7 +62,7 @@ while(True):
     print(bcolors.YELLOW,end="")
     for i in range(9):
         for j in range(3): 
-            if i%2 : 
+            if not i%2 : 
                 print((" "*(H//18)).join(["*"*(H//18) for i in range(9-i)]).center(H))
             else : 
              print(("*" * (H - H//9 * i)).center(H) )
