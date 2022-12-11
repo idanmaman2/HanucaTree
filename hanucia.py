@@ -39,7 +39,7 @@ while(True):
             changecolorRand()
             print(("*" * i).center(H//18),end=" "*(H//18))
         print(bcolors.YELLOW,end="")
-        print("*" *  (H//18),end=" "*(H//18))
+        print(" " + "*" *  (H//18),end=" "*(H//18))
         for j in range(4):
             changecolorRand()
             print(("*" * i).center(H//18),end=" "*(H//18))
@@ -52,7 +52,7 @@ while(True):
             changecolorRand()
             print(("*" * i).center(H//18),end=" "*(H//18))
         print(bcolors.YELLOW,end="")
-        print("*" * (H//18),end=" "*(H//18))
+        print(" " + "*" * (H//18),end=" "*(H//18))
         for j in range(4):
             changecolorRand()
             print(("*" * i).center(H//18),end=" "*(H//18))
@@ -67,5 +67,5 @@ while(True):
             else : 
              print(("*" * (H - H//9 * i)).center(H) )
     for i in range(H//9):
-      print((("*")*(H//9)).center(H-1))
+      print((("*")*(H//7)).center(H-1))
         
